@@ -6,9 +6,9 @@
 <h1 align="center">Bienvenido :)</h1>
 <h3 align="center">Actualmente:</h3>
 
-- "Desarrollando" un bot de **Discord**
+▪︎ "Desarrollando" un bot de **Discord**
 
-- Aprendiendo **[discord.js](https://github.com/discordjs/discord.js)** y **[erine](https://github.com/Cyberghxst/erine-docs)**
+▪︎ Aprendiendo **[discord.js](https://github.com/discordjs/discord.js)** y **[erine](https://github.com/Cyberghxst/erine-docs)**
 
 <h3 align="left">Perfil de Discord:</h3>
 <p align="left">
