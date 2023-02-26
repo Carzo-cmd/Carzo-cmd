@@ -6,7 +6,7 @@
 <h1 align="center">Bienvenido :)</h1>
 <h3 align="center">Actualmente:</h3>
 
-- En la búsqueda de mejorar a: [RedBot](https://dsc.gg/redbotsito)
+- "Desarrollando" un bot de **Discord**
 
 - Aprendiendo **[discord.js](https://github.com/discordjs/discord.js)** y **[erine](https://github.com/Cyberghxst/erine-docs)**
 
